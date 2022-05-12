@@ -1,4 +1,4 @@
-# Sports Analytics Charts
+# React Charts
 
 Available Charts
 
